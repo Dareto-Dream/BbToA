@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 5d826e00ab42b004ba9b64273e5d64ea
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -813,7 +813,7 @@ PlayerSettings:
   cloudProjectId: 37826ec4-5c38-42aa-a577-aa0b4602db9d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Bound by Ties of Affection
   organizationId: unity_58d0936c8675a1e91df1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
